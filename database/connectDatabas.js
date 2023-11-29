@@ -1,5 +1,5 @@
-const mongoose = require('mongoose')
 require('dotenv').config()
+const mongoose = require('mongoose')
 
 const DatabaseURL = process.env.MONGOURL;
 const databaseConnect = async ()=>{
