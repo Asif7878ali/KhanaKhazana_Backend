@@ -8,8 +8,9 @@ const JWT = require('jsonwebtoken')
 const secretKey = process.env.KEY
 logAPi.post('/loginInfo', async (req, res) => {
    console.log('Node Data Login', req.body)
-   const { email, password } = req.body
+   
    try {
+      const { email, password } = req.body
       const userExits = await userRegister.findOne({ email: email }).exec()
 
       if (userExits) {
