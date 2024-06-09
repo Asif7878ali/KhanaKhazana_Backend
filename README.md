@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png](https://en.wikipedia.org/wiki/File:Node.js_logo.svg)" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png](https://en.wikipedia.org/wiki/File:Node.js_logo.svg)" width="400" alt="Node Logo"></a></p>
 
 
 ## About Khana-Backend in Nodejs
